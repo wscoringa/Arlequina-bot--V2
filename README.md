@@ -35,7 +35,7 @@ O projeto foi criado para oferecer uma experiência moderna, rápida e divertida
 ## 1️⃣ Entre na pasta do bot
 
 ```bash
-cd /storage/emulated/0/Download/Arlequina-bot-v1
+cd /storage/emulated/0/Download/Arlequina-bot-V2
 ```
 
 ## 2️⃣ Instale os requisitos básicos
